@@ -1,0 +1,15 @@
+D:\c#-projects\check\check\bin\Debug\net7.0\check.exe
+D:\c#-projects\check\check\bin\Debug\net7.0\check.deps.json
+D:\c#-projects\check\check\bin\Debug\net7.0\check.runtimeconfig.json
+D:\c#-projects\check\check\bin\Debug\net7.0\check.dll
+D:\c#-projects\check\check\bin\Debug\net7.0\check.pdb
+D:\c#-projects\check\check\obj\Debug\net7.0\check.csproj.AssemblyReference.cache
+D:\c#-projects\check\check\obj\Debug\net7.0\check.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-projects\check\check\obj\Debug\net7.0\check.AssemblyInfoInputs.cache
+D:\c#-projects\check\check\obj\Debug\net7.0\check.AssemblyInfo.cs
+D:\c#-projects\check\check\obj\Debug\net7.0\check.csproj.CoreCompileInputs.cache
+D:\c#-projects\check\check\obj\Debug\net7.0\check.dll
+D:\c#-projects\check\check\obj\Debug\net7.0\refint\check.dll
+D:\c#-projects\check\check\obj\Debug\net7.0\check.pdb
+D:\c#-projects\check\check\obj\Debug\net7.0\check.genruntimeconfig.cache
+D:\c#-projects\check\check\obj\Debug\net7.0\ref\check.dll
